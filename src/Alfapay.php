@@ -1,6 +1,6 @@
 <?php
 
-namespace Codesoclock\Alfapay;
+namespace Naeemz\Alfapay;
 
 class Alfapay
 {
