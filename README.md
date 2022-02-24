@@ -1,8 +1,8 @@
 # AlfaPay
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/codesoclock/alfapay.svg?style=flat-square)](https://packagist.org/packages/codesoclock/alfapay)
-[![Total Downloads](https://img.shields.io/packagist/dt/codesoclock/alfapay.svg?style=flat-square)](https://packagist.org/packages/codesoclock/alfapay)
-![GitHub Actions](https://github.com/codesoclock/alfapay/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/naeemz/alfapay.svg?style=flat-square)](https://packagist.org/packages/naeemz/alfapay)
+[![Total Downloads](https://img.shields.io/packagist/dt/naeemz/alfapay.svg?style=flat-square)](https://packagist.org/packages/naeemz/alfapay)
+![GitHub Actions](https://github.com/naeemz/alfapay/actions/workflows/main.yml/badge.svg)
 
 This is Bank Alfalah payment gateway package to pay using Alfa Wallet, Bank Account Number or Credit Card (Credit Card not yet implemented). You can use this package with Laravel or any PHP framework via composer.
 
@@ -11,7 +11,7 @@ This is Bank Alfalah payment gateway package to pay using Alfa Wallet, Bank Acco
 You can install the package via composer:
 
 ```bash
-composer require codesoclock/alfapay
+composer require naeemz/alfapay
 ```
 
 ## Set .env configurations
@@ -73,11 +73,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email codeoclock.official@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email naeemins@gmail.com instead of using the issue tracker.
 
 ## Credits
 
--   [Code o'Clock](https://github.com/codesoclock)
+-   [naeemz](https://github.com/naeemz)
 -   [All Contributors](../../contributors)
 
 ## License
